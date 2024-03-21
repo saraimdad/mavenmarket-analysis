@@ -39,5 +39,9 @@ The Drillthrough Product Details page provides users with a deep dive into compr
 The Customer Details page offers comprehensive insights into customer demographics, purchasing behavior, and loyalty patterns. Users can explore customer segmentation based on location, occupation, and yearly income to understand buying preferences and tailor marketing strategies accordingly. Additionally, the page provides information on the top 100 customers ranked by revenue, enabling targeted engagement and personalized offerings to enhance customer satisfaction and loyalty. By leveraging these insights, businesses can optimize customer relationships and drive sustainable growth.
 
 
+### Tools
+- Microsoft Power BI
+
+
 ### Conclusion
 The data analysis project has yielded valuable insights into the operations and customer behavior of Maven Market. By leveraging data-driven decision-making, Maven Market is well-positioned to optimize inventory management, enhance marketing strategies, and drive overall business growth. The interactive reports developed as part of this project provide a powerful tool for stakeholders to extract actionable insights and drive informed decision-making. Moving forward, continuous monitoring and analysis of data will be essential to maintain competitiveness and adapt to evolving market dynamics.
